@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Decorative Circle Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.3"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- Solid Shield Base (comprising the outer shield element) -->
+    <path
+        android:fillColor="#F2C45A"
+        android:pathData="M54,24 L34,32 L34,54 C34,68.8 44.8,79.2 54,84 C63.2,79.2 74,68.8 74,54 L74,32 L54,24 Z" />
+
+    <!-- Inner Shield Contrast Shadow Inlay -->
+    <path
+        android:fillColor="#D4A853"
+        android:pathData="M54,24 L54,84 C63.2,79.2 74,68.8 74,54 L74,32 L54,24 Z" />
+
+    <!-- Inner Shield checkmark/sword representing breaking addiction and strength -->
+    <path
+        android:fillColor="#2C1810"
+        android:pathData="M48,51 L43,46 L40,49 L48,57 L66,39 L63,36 Z" />
+</vector>

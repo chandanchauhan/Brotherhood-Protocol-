@@ -1,0 +1,6 @@
+{
+  "name": "Brotherhood Protocol",
+  "description": "A daily tracker and streak builder for Ghazipur to Greatness: the ultimate protocol of habit discipline for hair, skin, testosterone, sleep, present moment, and anti-porn addiction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
